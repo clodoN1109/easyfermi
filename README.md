@@ -1,10 +1,9 @@
-# Homepage Templates
-## A template for building a software project's homepage.
+# easyFermi Webpage
 
 <br>
 A self-contained, highly compatible and responsive, easily editable, vanilla HTML-CSS-Javascript static homepage. 
 <br><br>
-Intended to serve as a project's main entry for both users and developers. 
+Intended to serve as the project's main entry for both users and developers. 
 <br><br>
 It presents an effortless path to getting the essencial informations, as the projects's purposes, team cast and installation instructions.
 <br><br>
